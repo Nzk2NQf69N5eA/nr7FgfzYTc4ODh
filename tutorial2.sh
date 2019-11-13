@@ -1,3 +1,3 @@
 #!/bin/bash
->/home/jebotejaaa/testfile
->testfile2
+>~/testfile2
+>testfile
